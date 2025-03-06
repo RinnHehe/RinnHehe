@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Banjarmasin State Polytechnic<br>🤔 I’m looking for help with Anything related to what I am currently learning<br>🌱 I’m currently learning PHP Framework Code Igniter 4 and React<br>💬 Ask me about PHP, SQL, and Website Design.<br>📫 How to reach me wafflemelons@gmail.com
+🔭 I’m currently studying on Banjarmasin State Polytechnic<br>🤔 I’m looking for help with Anything related to what I am currently learning<br>🌱 I’m currently learning Laravel and React<br>💬 Ask me about PHP, SQL, and Website Design.<br>📫 How to reach me wafflemelons@gmail.com
 
 
 ## 🌐 Socials:
